@@ -28,6 +28,10 @@
 1.4.12 xaxis.set_minor_formatter(4.3 or 6.2)  
 1.4.13 grid(True or False)  
 1.4.14 set_axisbelow(True or False)  
+1.4.15 get_xticklabels
+1.4.15.1 set(weight,color)  
+1.4.16 axvline(number,alpha,color)  
+1.4.17 set_alpha  
 1.5 subplots(nrow,ncol,sharex,sharey,figsize,facecolor,subplot_kw=dict,gridspec_kw=dict)輸出figure&axes   
 1.5.1 flat(axes屬性)  
 1.6 subplot(nrow,ncol,number)輸出figure&axes or subplot(1.7)  
